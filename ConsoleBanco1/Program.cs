@@ -1,8 +1,7 @@
-﻿using AppUsuarioDAO;
-using Dominio;
+﻿using Dominio;
 using MySql.Data.MySqlClient;
 using System;
-namespace ConsoleBanco1
+namespace AppBancoDLL
 {
     class Program
     {

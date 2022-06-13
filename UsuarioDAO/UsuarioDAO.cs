@@ -8,7 +8,7 @@ using DLL;
 using Dominio;
 using MySql.Data.MySqlClient;
 
-namespace AppUsuarioDAO
+namespace AppBancoDLL
 
 {
    public class UsuarioDAO
